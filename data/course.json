@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "a46da17a-fd79-ffa0-921a-98ce19151eb8",
+  "instructors": {
+    "content": [
+      "da32551f-181b-fd93-6628-39dbe0972ea8",
+      "146b9481-4d82-5e4f-af72-999edda0e77c",
+      "faa9703b-4a3b-0de3-2f4b-ccbe661f2324",
+      "9154ffa3-87de-a1ce-586c-5a7d40f769c3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb7de7f5-7ac6-a593-8118-fc237a68d2b7",
+    "website": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013"
+  },
+  "course_title": "Topics in Mathematics with Applications in Finance",
+  "course_description": "The purpose of the class is to expose undergraduate and graduate students to the mathematical concepts and techniques used in the financial industry. Mathematics lectures are mixed with lectures illustrating the corresponding application in the financial industry. MIT mathematicians teach the mathematics part while industry professionals give the lectures on applications in finance.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S096",
+  "course_image_thumbnail": {
+    "content": "1e816198-fe30-3017-579d-9b42077cdeed",
+    "website": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "337d29c3-7cf3-44e6-9a15-211701bc50c8",
+  "site_short_id": "18.s096-fall-2013",
+  "site_url_path": "courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013",
+  "title": "Course Metadata"
+}

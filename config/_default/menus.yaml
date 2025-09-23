@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 1b197334-e43b-384e-8c13-f65e8a4491b4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5463da3d-52e2-58d9-82e6-85a89a986e40
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 83b926b8-2c94-6464-b5bc-35b89c5e9b60
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 5595067e-ea85-a891-7808-e0dc047689f1
+  name: Lecture Notes & Slides
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 2b463a8a-0a52-09f1-38e5-d6814ffaf688
+  name: Case Studies
+  pageRef: /pages/case-studies
+  weight: 50
+- identifier: d23a8558-7c0c-7524-ea05-4e655c999532
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 60
+- identifier: 91a7a31d-49e5-03a8-4713-7266cb07cfbb
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 761a6c96-fe7d-0824-528a-490bc2252d5e
+  name: Projects
+  pageRef: /pages/projects
+  weight: 80
+- identifier: afc5b70d-0a56-428e-d513-5c93b04cc74a
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
