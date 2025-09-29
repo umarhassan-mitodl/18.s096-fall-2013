@@ -33,6 +33,7 @@
     "website": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013"
   },
   "course_title": "Topics in Mathematics with Applications in Finance",
+  "hide_download": true,
   "course_description": "The purpose of the class is to expose undergraduate and graduate students to the mathematical concepts and techniques used in the financial industry. Mathematics lectures are mixed with lectures illustrating the corresponding application in the financial industry. MIT mathematicians teach the mathematics part while industry professionals give the lectures on applications in finance.\n",
   "department_numbers": [
     "18"
@@ -43,6 +44,7 @@
     "content": "1e816198-fe30-3017-579d-9b42077cdeed",
     "website": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
