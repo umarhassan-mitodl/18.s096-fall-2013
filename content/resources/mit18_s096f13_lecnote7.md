@@ -4,8 +4,6 @@ description: This file contains information regarding lecture 7 notes.
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/8c9f9d321f7c8bb34b289f178f7cfc32_MIT18_S096F13_lecnote7.pdf
 file_size: 1533683
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

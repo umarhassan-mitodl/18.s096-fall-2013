@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/c6a3c15db672e2bd462f3002da1e2262_MIT18_S096F13_lecnote23.pdf
 file_size: 1134493
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

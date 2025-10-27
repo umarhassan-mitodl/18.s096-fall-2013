@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/946091c47c10583c9c6f362351df53bc_uBeM1FUk4Ps.srt
 file_size: 89164
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

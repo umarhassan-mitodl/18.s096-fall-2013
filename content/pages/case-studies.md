@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the case studies used in the course, associated
   files, and a link to more information on the free software environment used for
   some case studies.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies
@@ -13,7 +11,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The [R Project for Statistical Computing site](http://www.r-project.org/).
+Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The {{% resource_link "8065ffab-b709-4d7e-912b-c89c5f4e46ec" "R Project for Statistical Computing site" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

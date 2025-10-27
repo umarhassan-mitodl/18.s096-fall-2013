@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of lecture topics along with the lecture
   notes used for most class sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -58,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix Primer \[No lecture notes, but see [The Morgan Stanley Matrix{{< sup "TM" >}} microsite](http://www.morganstanley.com/matrixinfo/) for information about this topic\]
+Matrix Primer \[No lecture notes, but see {{% resource_link "d9ab5cfe-63b1-4510-b55c-9c818d06e6c0" "The Morgan Stanley Matrix<sup>TM</sup> microsite" %}} for information about this topic\]
 {{< tdclose >}}
 
 {{< trclose >}}
