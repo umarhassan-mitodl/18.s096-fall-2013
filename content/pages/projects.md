@@ -3,8 +3,6 @@ content_type: page
 description: This section provides sample topics for the final paper of the course
   and a list of topics chosen by students in the previous year.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Projects
 uid: 761a6c96-fe7d-0824-528a-490bc2252d5e
 video_metadata:
